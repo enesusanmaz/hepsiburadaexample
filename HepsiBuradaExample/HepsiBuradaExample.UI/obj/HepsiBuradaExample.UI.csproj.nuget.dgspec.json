@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.UI\\HepsiBuradaExample.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\HepsiBuradaExample.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\HepsiBuradaExample.Services.csproj",
+        "projectName": "HepsiBuradaExample.Services",
+        "projectPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\HepsiBuradaExample.Services.csproj",
+        "packagesPath": "C:\\Users\\enes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\HepsiBuradaExample.Data.csproj": {
+                "projectPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\HepsiBuradaExample.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\HepsiBuradaExample.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\HepsiBuradaExample.Data.csproj",
+        "projectName": "HepsiBuradaExample.Data",
+        "projectPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\HepsiBuradaExample.Data.csproj",
+        "packagesPath": "C:\\Users\\enes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.UI\\HepsiBuradaExample.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.UI\\HepsiBuradaExample.UI.csproj",
+        "projectName": "HepsiBuradaExample.UI",
+        "projectPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.UI\\HepsiBuradaExample.UI.csproj",
+        "packagesPath": "C:\\Users\\enes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\HepsiBuradaExample.Services.csproj": {
+                "projectPath": "C:\\Users\\enes\\source\\repos\\HepsiBuradaExample\\HepsiBuradaExample.Business\\HepsiBuradaExample.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

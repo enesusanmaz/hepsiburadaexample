@@ -1,0 +1,14 @@
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.deps.json
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.dll
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.pdb
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.AssemblyInfoInputs.cache
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.AssemblyInfo.cs
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.dll
+C:\Users\enesu\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.pdb
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.deps.json
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.dll
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\bin\Debug\netcoreapp3.0\HepsiBuradaExample.Data.pdb
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.AssemblyInfoInputs.cache
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.AssemblyInfo.cs
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.dll
+C:\Users\enes\source\repos\HepsiBuradaExample\HepsiBuradaExample.Data\obj\Debug\netcoreapp3.0\HepsiBuradaExample.Data.pdb
